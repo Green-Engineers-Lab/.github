@@ -1,7 +1,7 @@
 ---
 name: Research tasks
 about: Issue template for research tasks
-title: "[YYYY-MM-DD_Destination"
+title: "[TASK] task name here"
 labels: ''
 assignees: ''
 
