@@ -1,7 +1,7 @@
 ---
 name: Meeting agenda
 about: Issue template for MTG agenda
-title: "[MTG]"
+title: "[mtg]"
 labels: meeting
 assignees: ''
 
